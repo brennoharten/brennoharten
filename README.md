@@ -20,9 +20,7 @@
 ---- 
 
 Hi, I'm Brenno Harten, 
-
 I am a computer science student <img src="./Assets/headbang.gif" width="24px"> from Brazil 💚, at University of Fortaleza. <img src="./Assets/Rocket.gif" width="24px">
-
 
 A fanatic about **learning**, who is always looking for new **challenges** and a way to contribute to the **world**. <img src="./Assets/Earth.gif" width="24px">
 
