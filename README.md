@@ -1,4 +1,4 @@
-### 👋 Hello World, I'm Brenno!  <img src="./Assets/Developer.gif" width="28px">
+### 👋 Hello World, I'm Brenno!  <img src="./Assets/Developer.gif" width="5px">
 
 
 ---- 
