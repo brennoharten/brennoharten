@@ -1,4 +1,4 @@
-### 👋 Hello World, I'm Brenno!  <img src="./Assets/Developer.gif" width="5px">
+### 👋 Hello World, I'm Brenno!
 
 
 ---- 
@@ -19,13 +19,13 @@
 
 ---- 
 
-Hi, I'm Brenno Harten, a computer science student <img src="./Assets/headbang.gif" width="24px"> from Brazil 💚, at University of Fortaleza. <img src="./Assets/Rocket.gif" width="24px">
+Hi, I'm Brenno Harten, a computer science student from Brazil 💚, at University of Fortaleza.
 
-A fanatic about **learning**, who is always looking for new **challenges** and a way to contribute to the **world**. <img src="./Assets/Earth.gif" width="24px">
+A fanatic about **learning**, who is always looking for new **challenges** and a way to contribute to the **world**.
 
 ----
 
-#### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> View my stats on Github 
+#### View my stats on Github 
 
 <a href="https://github.com/brennoharten">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brennoharten&theme=dark&hide_langs_below=1" />
