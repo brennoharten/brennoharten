@@ -27,10 +27,3 @@ A fanatic about **learning**, who is always looking for new **challenges** and a
 
 #### View my stats on Github 
 
-<a href="https://github.com/brennoharten">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brennoharten&theme=dark&hide_langs_below=1" />
-</a>
-
-<a href="https://github.com/brennoharten">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=brennoharten&show_icons=true&theme=dark&line_height=27" alt="Shubhamdeep's github stats"/>
-</a>
